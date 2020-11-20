@@ -1,36 +1,30 @@
-# Flexible-Jekyll is a simple and clean theme for Jekyll
+### Welcome to My GitHub! I'm Asia,
 
-![](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/promo-img.jpg?raw=true)
+I joined the coding community purely out of social pressure and ended up falling in love. My friends and family were all nerds finding their passions in lines of gibberish, and since my passion obviously wasn't in insurance, I took a chance and enrolled at University to find my way. 
+<br>
+<br>
+AND. I. DID. 
+<br>
+<br>
+Web development quickly turned into a creative outlet, and Data Analysis empowered my curiosities when conducting research. I now know that the fundamentals I've absorbed from my classes and lessons will lay the foundation for the incredible business image I hope to create in the future. 
 
-## Demo
+## Motivation: What Keeps Me Going?
 
-Check the theme in action [Demo](https://artemsheludko.github.io/flexible-jekyll/)
+:seedling: Constantly aiming to improve myself
+<br>
+:earth_asia: Learning new things and meeting new people
+<br>
+:green_heart: I want to improve my community for my family, friends, and neighbors 
 
-The main page would look like this:
+## Work Ethic, Work Life, Work Balance
 
-![Main page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/home-page.jpg?raw=true)
+When I set my mind to something I get it done no matter how daunting the task may be. I have experience working as an independent contractor, which makes me effective when completing tasks solo, but I never hesitate to ask for help when my lone-soldier methods need reinforcements. I see my work as a reflection of myself, so I always add a touch of personality to the material given while maintaining my professional composure, but I think the world could use a little more humor and compassion, especially in the work place.
 
-The post page would look like this:
+## Get In Touch!
 
-![Post page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/post-example.jpg?raw=true)
+If my projects and profile interest you or compell you to provide constructive feedback, please reach out to me via:
 
-## Features
+* Linked In: https://www.linkedin.com/in/asia-hewett
+* Stack Overflow: https://stackexchange.com/users/18854155/asia-hewett
+* GitHub Site: https://asia-hewett.github.io/
 
-- [Google Fonts](https://fonts.google.com/)
-- [Font Awesome](http://fontawesome.io/)
-- [Disqus](https://disqus.com/)
-- [Analytics](https://analytics.google.com/analytics/web/)
-- Support Emoji
-
-## Installation:
-
-Fork the ``master`` branch and follow the [Jekyll Installation Documentation](https://jekyllrb.com/docs/installation/).
-
-## License
-
-GNU General Public License v3.0
-
-## Donate
-
-<p>If you like the themes that I create you can become my sponsor on <a href="https://www.patreon.com/artemsheludko" target="_blank">Patreon</a>.
-<p align="center"><b>Thank you for your support ❤️</b></p>
