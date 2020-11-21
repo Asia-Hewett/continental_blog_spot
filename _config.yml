@@ -1,8 +1,6 @@
 title: Hello, world! I'm Asia Hewett 
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  English major exploring the utility and convenience of becoming tech savvy. Having completed my data analysis bootcamp I am now using this platform as an opportunity to share my experience with others who may be exploring their options in the world of code.
 permalink: ':title/'
 baseurl: "/continental_blog_spot" # the subpath of your site, e.g. /blog
 url: "https://asia-hewett.github.io" # the base hostname & protocol for your site, e.g. http://example.com
