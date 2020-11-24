@@ -25,6 +25,6 @@ When I set my mind to something I get it done no matter how daunting the task ma
 If my projects and profile interest you or compell you to provide constructive feedback, please reach out to me via:
 
 * Linked In: https://www.linkedin.com/in/asia-hewett
-* Stack Overflow: https://stackexchange.com/users/18854155/asia-hewett
+* Blog: https://stackexchange.com/users/18854155/asia-hewett
 * GitHub Site: https://asia-hewett.github.io/
 
