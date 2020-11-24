@@ -1,4 +1,4 @@
-### Welcome to My GitHub! I'm Asia,
+### Welcome to My Blog! I'm Asia,
 
 I joined the coding community purely out of social pressure and ended up falling in love. My friends and family were all nerds finding their passions in lines of gibberish, and since my passion obviously wasn't in insurance, I took a chance and enrolled at University to find my way. 
 <br>
