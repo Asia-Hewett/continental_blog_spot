@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I Love to Build
+title: Combining Architecture and Programming
 date: 2020-04-20 00:00:00 +0300
 description: Whether I'm programming or renovating, building is my passion. # Add post description (optional)
 img: architect.jpeg # Add image post (optional)
