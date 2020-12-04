@@ -2,7 +2,7 @@
 layout: post
 title: Before You Burnout
 date: 2020-11-28 00:00:00 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+description: Everyone experiences burnout at some point, especially when times are already hard. Don't let your ambitions drown in the face of competition! # Add post description (optional)
 img: burn_out.jpg # Add image post (optional)
 tags: [Bootcamp, Burnout, Self Care] # add tag
 ---
