@@ -3,7 +3,7 @@ layout: post
 title: I Love to Build
 date: 2020-04-20 00:00:00 +0300
 description: Whether I'm programming or renovating, building is my passion. # Add post description (optional)
-img: architect.jpg # Add image post (optional)
+img: architect.jpeg # Add image post (optional)
 tags: [Programming, Learn] # add tag
 ---
 In an earlier post I wrote that some of my passions included architecture and construction. Since then I've sat down with my boyfriend and had many conversations revolving around the prospects of buying a house, one that required some renovations, in the near future wherein he posed the question, "would that really be your dream job?" Understandable considering I just signed up to sit at a desk for eight hours a day. I figure now would be a great time to explain how I see my passions intertwining some day to make my childhood dreams a reality! 
