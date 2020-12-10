@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Combining Architecture and Programming
-date: 2020-04-20 00:00:00 +0300
+date: 2020-12-04 00:00:00 +0300
 description: Whether I'm programming or renovating, building is my passion. # Add post description (optional)
 img: architect.jpeg # Add image post (optional)
 tags: [Architecture, Construction, Coding] # add tag
