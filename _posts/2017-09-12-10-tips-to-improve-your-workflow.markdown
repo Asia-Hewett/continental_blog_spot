@@ -20,7 +20,7 @@ The assessments were a slap in the face to say the least. I was told they would 
 
 and I failed.
 
-![Failure]({{site.baseurl}}/assets/img/failure.wepb)
+![Failure]({{site.baseurl}}/assets/img/failure.webp)
 
 ###  What Then?
 I don't mean to sound incredibly negative, but I knew as soon as I started the assessment that I wasn't going to do well. The test itself was hosted by a site that would attempt to combine all four of the afformentioned skill sets onto a single platform. Where I'm only familiar with a dedicated platform for each language, i.e. Jupyter Notebook, VSCode, PGadmin, etc, the website where I would be inputing code was strange, hard to follow, and the error codes were unfamiliar. Excuses aside, the exam was incredibly out of my league. 
