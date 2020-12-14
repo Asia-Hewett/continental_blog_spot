@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Embracing Your Weaknesses
+title: Acknowledge Your Weaknesses
 date: 2020-12-14 00:00:00 +0300
 description: Job hunting is hard, and it's tempting to fire blindly hoping to hit any target and land a position in the field you want, but sometimes it's best to line your sights, breath, and keep your aim steady. # Add post description (optional)
 img: steady.jpg # Add image post (optional)
@@ -22,7 +22,7 @@ However, I started seeing results when I stopped firing blindly and focused on w
 
 Recently, I received a message from a recruiter for a company looking to hire a jr python software engineer. As desperate as I am for a job, I knew this position wasn't for me. I knew I wouldn't be a good fit, and that it'd be a shame of me to waste not only my time, but the companies time as well should I be selected for an interview. I cordially refused the invitation and wished the recruiter good luck finding a better suited candidate, and then took a moment to reflect on the preferred positions I am interested in.
 
-I knew my strength wouldn't be in the languages they were looking for. I haven't ever used Django, and though I have experience with similar framework technologies, I didn't want to chance going off course to learn a language I may never need. Call it a weakness, but I see it as a comfortable reminder to not exceed my personal limitations. If you think limiting myself sounds like a bad thing, I think you're wrong, and I'll tell you why.
+I knew my strength wouldn't be in the languages they were looking for. I haven't ever used Django, and though I have experience with similar framework technologies, I didn't want to chance going off course to learn a language I may never need in an attempt to prep for the technical interview. Call it a weakness, but I see it as a comfortable reminder to not exceed my personal limitations. If you think limiting myself sounds like a bad thing, I think you're wrong, and I'll tell you why.
 
 # Food For Thought
 You will never be a master at everything, so why put yourself through that kind of stress? When I got into Data Science, I saw myself in a research oriented role making sense of data so business decisions could have influential impacts on consumers, the company, and the economy. Being able to relay technical concepts to non-technical people would be an awesome way to combine my love of language with my fondness for analysis. Those ideas are what motivate me and center me when job hunting, and taking a role outside of that description would feel like a desperate grab at something resembling opportunity.
