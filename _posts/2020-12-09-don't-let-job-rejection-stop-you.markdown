@@ -51,3 +51,5 @@ From here on my goals will be oriented around mastering each language and giving
     5. Be realistic. You aren't an engineer or a scientist, you are a bootcamp grad with a cert.
 
 Some of those bullet points might not apply to everyone, but sometimes those things need to be said again for the people in the back. 
+
+<i>Hey reader, some of those bullet points might not apply to everyone, but sometimes those things need to be said again for the people in the back. As always, constructive criticism is always welcome and if you just want to chat, find me on LinkedIn and shoot me a message!</i>
