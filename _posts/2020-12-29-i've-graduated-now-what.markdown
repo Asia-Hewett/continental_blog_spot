@@ -3,7 +3,7 @@ layout: post
 title: I've Graduated. Now What?
 date: 2020-12-29 13:32:20 +0300
 description: Now that I've received my certificate, I can focus on skills I wish we'd spent more time on or work on projects at my own pace, but what will those skills and projects be? # Add post description (optional)
-img:  study_time.jpg # Add image post (optional)
+img:  next.jpg # Add image post (optional)
 ---
 ### Happy Holidays! Goodbye 2020, and Good Riddance.
 

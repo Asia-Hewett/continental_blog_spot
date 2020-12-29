@@ -3,7 +3,7 @@ layout: post
 title: Don't Let Job Rejection Stop You
 date: 2020-12-10 00:00:00 +0300
 description: Everyone experiences it at some point, especially in a competitive job market, but it's not the amount of times we fail that define us, it's how we learn from it and grow that does. # Add post description (optional)
-img: next.jpg # Add image post (optional)
+img: never_give_up.webp # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Rejection, Interview, Technical Assessment, Phone Interview, Tech Job] # add tag
 ---
